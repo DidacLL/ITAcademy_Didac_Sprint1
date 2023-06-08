@@ -7,6 +7,8 @@ body {
     margin: 1em;
     padding: 1em;
     min-height: 3em;
+    display: grid;
+    gap: 1em;
 }
 .contentBox{
     padding: 1em;
