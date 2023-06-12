@@ -22,7 +22,8 @@ body {
     background-color: darkcyan;
     display: flex;
     flex-direction: row;
-    justify-content: space-around;
+    gap: 1em;
+    justify-content: space-between;
 }
 
 .ha_content{
